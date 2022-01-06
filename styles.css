@@ -598,6 +598,11 @@ footer {
     font-size: 0.7rem;
   }
 }
+@media not all and (min-resolution: .001dpcm){
+  .watermark {
+    display: none;
+  }
+}
 
 @media (max-width: 812px) {
   :root {
