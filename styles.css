@@ -653,6 +653,7 @@ footer {
   }
 
   nav {
+    position: relative;
     padding-block: 0.3rem;
     z-index: 1;
   }
